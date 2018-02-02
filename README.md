@@ -70,7 +70,7 @@ children: [
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-        title: "DD Pegawai"
+        title: "DD Peserta Didik"
     }
 	}
 ```
@@ -90,7 +90,7 @@ children: [
 				sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
 			},
 			meta: {
-				title: "DD Pegawai"
+				title: "DD Peserta Didik"
 			}
 		}
  //== ...   
