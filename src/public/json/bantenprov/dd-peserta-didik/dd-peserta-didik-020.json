@@ -1,0 +1,842 @@
+[
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          316737,
+          164968,
+          151769
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          141061,
+          73184,
+          67877
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          139022,
+          72184,
+          66838
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          161587,
+          84425,
+          77162
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          178704,
+          91961,
+          86743
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          135086,
+          69845,
+          65241
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          76497,
+          39748,
+          36749
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          46439,
+          24327,
+          22112
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11955,
+          61609,
+          57941
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          43057,
+          22508,
+          20549
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          48606,
+          25406,
+          232
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          51618,
+          26504,
+          25114
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6571,
+          34109,
+          31601
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          53508,
+          27177,
+          26331
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27298,
+          13651,
+          13647
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          14501,
+          7565,
+          6936
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          50306,
+          22665,
+          27641
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15051,
+          7333,
+          7718
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1987,
+          9465,
+          10405
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          23269,
+          985,
+          13419
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          28922,
+          13563,
+          15359
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27244,
+          13112,
+          14132
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11547,
+          4988,
+          6559
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6905,
+          2731,
+          4174
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          65953,
+          37885,
+          28068
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          24311,
+          13933,
+          10378
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          17954,
+          10648,
+          7306
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          25555,
+          15322,
+          10233
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          49039,
+          25592,
+          23447
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          34154,
+          17842,
+          16312
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          21559,
+          11989,
+          957
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12166,
+          7256,
+          491
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          881,
+          543,
+          338
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          746,
+          436,
+          310
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          633,
+          372,
+          261
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          247,
+          169,
+          78
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1062,
+          681,
+          381
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          839,
+          548,
+          291
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          498,
+          290,
+          208
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          274,
+          165,
+          109
+        ]
+      }
+    ]
+  }
+]
