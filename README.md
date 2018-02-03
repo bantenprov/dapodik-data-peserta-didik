@@ -126,7 +126,7 @@ children: [
 },
 //== ...        
       {
-        name: 'Dapodik Data Pegawai',
+        name: 'Dapodik Data Peserta Didik',
         link: '/dashboard/dd-peserta-didik',
         icon: 'fa fa-angle-double-right'
       },
