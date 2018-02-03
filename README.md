@@ -62,6 +62,7 @@ children: [
     }
   },
   //== ...
+  
   {
     path: '/dashboard/dd-peserta-didik',
     components: {
@@ -73,6 +74,7 @@ children: [
         title: "DD Peserta Didik"
     }
 	}
+
 ```
 
 ```javascript
@@ -82,17 +84,19 @@ redirect: '/admin/dashboard',
 component: resolve => require(['./AdminLayout.vue'], resolve),
 children: [
 //== ...
+
     {
-			path: '/admin/dashboard/dd-peserta-didik',
-			components: {
-				main: resolve => require(['./components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.show.vue'], resolve),
-				navbar: resolve => require(['./components/Navbar.vue'], resolve),
-				sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
-			},
-			meta: {
-				title: "DD Peserta Didik"
-			}
-		}
+      path: '/admin/dashboard/dd-peserta-didik',
+      components: {
+        main: resolve => require(['./components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.show.vue'], resolve),
+        navbar: resolve => require(['./components/Navbar.vue'], resolve),
+        sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
+      },
+      meta: {
+        title: "DD Peserta Didik"
+      }
+    }
+
  //== ...   
   ]
 },
