@@ -62,7 +62,7 @@ children: [
     }
   },
   //== ...
-  
+
   {
     path: '/dashboard/dd-peserta-didik',
     components: {
@@ -71,7 +71,7 @@ children: [
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-        title: "DD Peserta Didik"
+        title: "Dapodik Peserta Didik"
     }
 	}
 
@@ -95,7 +95,7 @@ children: [
       meta: {
         title: "DD Peserta Didik"
       }
-    }
+    },
 
  //== ...   
   ]
