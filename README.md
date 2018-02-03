@@ -118,18 +118,13 @@ children: [
         },
         //== ...
         {
-          name: 'Angka partisipasi kasar',
-          link: '/dashboard/ap-kasar',
-          icon: 'fa fa-angle-double-right'
-        }
-  ]
-},
-//== ...        
-      {
         name: 'Dapodik Data Peserta Didik',
         link: '/dashboard/dd-peserta-didik',
         icon: 'fa fa-angle-double-right'
-      },
+      }
+  ]
+},
+      
 ```
 
 #### Tambahkan components `resources/assets/js/components.js` :
