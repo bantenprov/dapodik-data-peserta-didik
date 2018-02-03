@@ -136,7 +136,7 @@ class DDPesertaDidikServiceProvider extends ServiceProvider
 
         $this->publishes([
             $packageAssetsPath => resource_path('assets'),
-        ], 'ahh-assets');
+        ], 'dd-peserta-didik-assets');
     }
 
     /**
@@ -154,4 +154,20 @@ class DDPesertaDidikServiceProvider extends ServiceProvider
             $packageMigrationsPath => database_path('migrations')
         ], 'migrations');
     }
+
+    public function publicHandle()
+    {
+        $packagePublicPath = __DIR__.'/public';
+
+        $this->publishes([
+            $packagePublicPath => base_path('public')
+        ], 'dd-peserta-didik-public');
+    }
 }
+
+      
+
+ 
+ 
+ 
+    
