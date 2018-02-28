@@ -1,9 +1,10 @@
 [
   {
     "xAxis": {
-      "category": "SD",
+      "category": "Total",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Total Jumlah Peserta Didik Kabupaten Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -13,9 +14,185 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
+          553427,
+          287670,
+          265757
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Total Jumlah Peserta Didik Kabupaten Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          226085,
+          118075,
+          108010
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "title": "Total Jumlah Peserta Didik Kabupaten Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          262276,
+          136270,
+          126006
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Total Jumlah Peserta Didik Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          224226,
+          117394,
+          106832
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Tangerang",
+      "title": "Total Jumlah Peserta Didik Kota Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          323437,
+          165906,
+          157531
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "title": "Total Jumlah Peserta Didik Kota Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          250831,
+          128524,
+          122307
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Serang",
+      "title": "Total Jumlah Peserta Didik Kota Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          137399,
+          70666,
+          66733
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Total",
+      "region": "Kota",
+      "name": "Cilegon",
+      "title": "Total Jumlah Peserta Didik Kota Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          80285,
+          42044,
+          38241
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SD Kabupaten Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          316737,
+          164968,
+          151769
         ]
       }
     ]
@@ -25,6 +202,7 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SD Kabupaten Lebak",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -34,30 +212,9 @@
     "series": [
       {
         "data": [
-          394,
-          286,
-          108
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SD",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          228,
-          182,
-          46
+          139022,
+          72184,
+          66838
         ]
       }
     ]
@@ -67,6 +224,7 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SD Kabupaten Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -76,9 +234,31 @@
     "series": [
       {
         "data": [
-          228,
-          182,
-          46
+          161587,
+          84425,
+          77162
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SD Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          141061,
+          73184,
+          67877
         ]
       }
     ]
@@ -88,6 +268,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SD Kota Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -97,9 +278,9 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
+          178704,
+          91961,
+          86743
         ]
       }
     ]
@@ -109,6 +290,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Peserta Didik SD Kota Tangerang Selatan",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -118,9 +300,9 @@
     "series": [
       {
         "data": [
-          287,
-          157,
-          130
+          135086,
+          69845,
+          65241
         ]
       }
     ]
@@ -130,6 +312,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SD Kota Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -139,9 +322,9 @@
     "series": [
       {
         "data": [
-          171,
-          93,
-          78
+          76497,
+          39748,
+          36749
         ]
       }
     ]
@@ -151,6 +334,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Peserta Didik SD Kota Cilegon",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -160,9 +344,9 @@
     "series": [
       {
         "data": [
-          2.63,
-          1.722,
-          908
+          46439,
+          24327,
+          22112
         ]
       }
     ]
@@ -172,6 +356,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMP Kabupaten Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -181,9 +366,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          119550,
+          61609,
+          57941
         ]
       }
     ]
@@ -193,6 +378,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMP Kabupaten Lebak",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -202,30 +388,9 @@
     "series": [
       {
         "data": [
-          408,
-          264,
-          144
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          380,
-          238,
-          142
+          48606,
+          25406,
+          23206
         ]
       }
     ]
@@ -235,6 +400,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMP Kabupaten Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -244,9 +410,31 @@
     "series": [
       {
         "data": [
-          384,
-          205,
-          179
+          51618,
+          26504,
+          25114
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMP Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          43057,
+          22508,
+          20549
         ]
       }
     ]
@@ -256,6 +444,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMP Kota Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -265,9 +454,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          65710,
+          34109,
+          31601
         ]
       }
     ]
@@ -277,6 +466,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Peserta Didik SMP Kota Tangerang Selatan",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -286,9 +476,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          53508,
+          27177,
+          26331
         ]
       }
     ]
@@ -298,6 +488,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMP Kota Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -307,9 +498,9 @@
     "series": [
       {
         "data": [
-          224,
-          106,
-          118
+          27298,
+          13651,
+          13647
         ]
       }
     ]
@@ -319,6 +510,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Peserta Didik SMP Kota Cilegon",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -328,9 +520,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
+          14501,
+          7565,
+          6936
         ]
       }
     ]
@@ -340,6 +532,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMA Kabupaten Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -349,9 +542,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
+          50306,
+          22665,
+          27641
         ]
       }
     ]
@@ -361,6 +554,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMA Kabupaten Lebak",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -370,30 +564,9 @@
     "series": [
       {
         "data": [
-          183,
-          106,
-          77
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          216,
-          121,
-          95
+          19870,
+          9465,
+          10405
         ]
       }
     ]
@@ -403,6 +576,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMA Kabupaten Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -412,9 +586,31 @@
     "series": [
       {
         "data": [
-          226,
-          108,
-          118
+          23269,
+          9850,
+          13419
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMA Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15051,
+          7333,
+          7718
         ]
       }
     ]
@@ -424,6 +620,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMA Kota Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -433,9 +630,9 @@
     "series": [
       {
         "data": [
-          291,
-          164,
-          127
+          28922,
+          13563,
+          15359
         ]
       }
     ]
@@ -445,6 +642,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Peserta Didik SMA Kota Tangerang Selatan",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -454,9 +652,9 @@
     "series": [
       {
         "data": [
-          240,
-          128,
-          112
+          27244,
+          13112,
+          14132
         ]
       }
     ]
@@ -466,6 +664,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMA Kota Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -475,9 +674,9 @@
     "series": [
       {
         "data": [
-          116,
-          64,
-          52
+          11547,
+          4988,
+          6559
         ]
       }
     ]
@@ -487,6 +686,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Peserta Didik SMA Kota Cilegon",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -496,9 +696,9 @@
     "series": [
       {
         "data": [
-          98,
-          53,
-          45
+          6905,
+          2731,
+          4174
         ]
       }
     ]
@@ -508,6 +708,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMK Kabupaten Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -517,9 +718,9 @@
     "series": [
       {
         "data": [
-          344,
-          185,
-          159
+          65953,
+          37885,
+          28068
         ]
       }
     ]
@@ -529,6 +730,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMK Kabupaten Lebak",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -538,30 +740,9 @@
     "series": [
       {
         "data": [
-          201,
-          111,
-          90
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          167,
-          94,
-          73
+          17954,
+          10648,
+          7306
         ]
       }
     ]
@@ -571,6 +752,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMK Kabupaten Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -580,9 +762,31 @@
     "series": [
       {
         "data": [
-          159,
-          87,
-          72
+          25555,
+          15322,
+          10233
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SMK Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          24311,
+          13933,
+          10378
         ]
       }
     ]
@@ -592,6 +796,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SMK Kota Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -601,9 +806,9 @@
     "series": [
       {
         "data": [
-          410,
-          230,
-          180
+          49039,
+          25592,
+          23447
         ]
       }
     ]
@@ -613,6 +818,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Peserta Didik SMK Kota Tangerang Selatan",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -622,9 +828,9 @@
     "series": [
       {
         "data": [
-          174,
-          97,
-          77
+          34154,
+          17842,
+          16312
         ]
       }
     ]
@@ -634,6 +840,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SMK Kota Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -643,9 +850,9 @@
     "series": [
       {
         "data": [
-          184,
-          104,
-          80
+          21559,
+          11989,
+          9570
         ]
       }
     ]
@@ -655,6 +862,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Peserta Didik SMK Kota Cilegon",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -664,9 +872,9 @@
     "series": [
       {
         "data": [
-          138,
-          80,
-          58
+          12166,
+          7256,
+          4910
         ]
       }
     ]
@@ -676,6 +884,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SLB Kabupaten Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -685,9 +894,9 @@
     "series": [
       {
         "data": [
-          23,
-          4,
-          19
+          881,
+          543,
+          338
         ]
       }
     ]
@@ -697,6 +906,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SLB Kabupaten Lebak",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -706,30 +916,9 @@
     "series": [
       {
         "data": [
-          12,
-          8,
-          4
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          12,
-          8,
-          4
+          633,
+          372,
+          261
         ]
       }
     ]
@@ -739,6 +928,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SLB Kabupaten Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -748,9 +938,31 @@
     "series": [
       {
         "data": [
-          1,
-          1,
-          0
+          247,
+           169,
+           78
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Peserta Didik SLB Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          746,
+           436,
+           310
         ]
       }
     ]
@@ -760,6 +972,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Peserta Didik SLB Kota Tangerang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -769,9 +982,9 @@
     "series": [
       {
         "data": [
-          10,
-          3,
-          7
+          1062,
+           681,
+           381
         ]
       }
     ]
@@ -781,6 +994,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Peserta Didik SLB Kota Tangerang Selatan",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -790,9 +1004,9 @@
     "series": [
       {
         "data": [
-          7,
-          1,
-          6
+          839,
+           548,
+            291
         ]
       }
     ]
@@ -802,6 +1016,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Peserta Didik SLB Kota Serang",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -811,9 +1026,9 @@
     "series": [
       {
         "data": [
-          9,
-          3,
-          6
+          498,
+           290,
+           208
         ]
       }
     ]
@@ -823,6 +1038,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Peserta Didik SLB Kota Cilegon",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -832,9 +1048,9 @@
     "series": [
       {
         "data": [
-          1,
-          0,
-          1
+          274,
+           165,
+            109
         ]
       }
     ]

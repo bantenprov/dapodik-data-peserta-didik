@@ -88,7 +88,7 @@ children: [
     {
       path: '/admin/dashboard/dd-peserta-didik',
       components: {
-        main: resolve => require(['./components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.show.vue'], resolve),
+        main: resolve => require(['./components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.view.vue'], resolve),
         navbar: resolve => require(['./components/Navbar.vue'], resolve),
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
       },
@@ -146,7 +146,7 @@ Vue.component('echarts-dd-peserta-didik-kota', DDPesertaDidikKota);
 import DDPesertaDidikTahun from './components/bantenprov/dd-peserta-didik/DDPesertaDidikTahun.chart.vue';
 Vue.component('echarts-dd-peserta-didik-tahun', DDPesertaDidikTahun);
 
-import DDPesertaDidikAdminShow from './components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.show.vue';
+import DDPesertaDidikAdminShow from './components/bantenprov/dd-peserta-didik/DDPesertaDidikAdmin.view.vue';
 Vue.component('admin-view-dd-peserta-didik-tahun', DDPesertaDidikAdminShow);
 
 //== Echarts DD Pegawai
