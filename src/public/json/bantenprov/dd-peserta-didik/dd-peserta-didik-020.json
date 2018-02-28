@@ -4,6 +4,7 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Peserta Didik SD Kab.Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -13,30 +14,9 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SD",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          394,
-          286,
-          108
+          316737,
+          164968,
+          151769
         ]
       }
     ]
@@ -46,6 +26,7 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Peserta Didik SD Kab.Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -55,9 +36,32 @@
     "series": [
       {
         "data": [
-          228,
-          182,
-          46
+          139022,
+          72184,
+          66838
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SD",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "title": "Peserta Didik SD Kab.Serang 2017-2018 Genap",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          161587,
+          84425,
+          77162
         ]
       }
     ]
@@ -67,6 +71,7 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Peserta Didik SD Kab.Pandeglang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -76,9 +81,9 @@
     "series": [
       {
         "data": [
-          228,
-          182,
-          46
+          141061,
+          73184,
+          67877
         ]
       }
     ]
@@ -88,6 +93,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Peserta Didik SD Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -97,9 +103,9 @@
     "series": [
       {
         "data": [
-          418,
-          271,
-          147
+          178704,
+          91961,
+          86743
         ]
       }
     ]
@@ -109,6 +115,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Peserta Didik SD Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -118,9 +125,9 @@
     "series": [
       {
         "data": [
-          287,
-          157,
-          130
+          135086,
+          69845, 
+          65241
         ]
       }
     ]
@@ -130,6 +137,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Serang",
+      "title": "Peserta Didik SD Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -139,9 +147,9 @@
     "series": [
       {
         "data": [
-          171,
-          93,
-          78
+          76497,
+          39748,
+          36749
         ]
       }
     ]
@@ -151,6 +159,7 @@
       "category": "SD",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Peserta Didik SD Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -160,9 +169,9 @@
     "series": [
       {
         "data": [
-          2.63,
-          1.722,
-          908
+          46439,
+          24327,
+          22112
         ]
       }
     ]
@@ -172,6 +181,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Peserta Didik SMP Kab.Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -181,30 +191,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          408,
-          264,
-          144
+            119550,
+            61609,
+            57941
         ]
       }
     ]
@@ -214,6 +203,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Peserta Didik SMP Kab.Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -223,9 +213,9 @@
     "series": [
       {
         "data": [
-          380,
-          238,
-          142
+            48606,
+            25406,
+            23200
         ]
       }
     ]
@@ -235,6 +225,7 @@
       "category": "SMP",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Peserta Didik SMP Kab.Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -244,9 +235,31 @@
     "series": [
       {
         "data": [
-          384,
-          205,
-          179
+          51618,
+          26504,
+          25114
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Peserta Didik SMP Kab.Pandeglang 2017-2018 Genap",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          43057,
+          22508,
+          20549
         ]
       }
     ]
@@ -256,6 +269,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Peserta Didik SMP Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -265,9 +279,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          65710,
+          34109,
+          31601
         ]
       }
     ]
@@ -277,6 +291,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Peserta Didik SMP Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -286,9 +301,9 @@
     "series": [
       {
         "data": [
-          612,
-          348,
-          264
+          53508,
+          27177,
+          26331
         ]
       }
     ]
@@ -298,6 +313,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Serang",
+      "title": "Peserta Didik SMP Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -307,9 +323,9 @@
     "series": [
       {
         "data": [
-          224,
-          106,
-          118
+          27298,
+          13651,
+          13647
         ]
       }
     ]
@@ -319,6 +335,7 @@
       "category": "SMP",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Peserta Didik SMP Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -328,9 +345,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
+          14501,
+          7565,
+          6936
         ]
       }
     ]
@@ -340,6 +357,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Peserta Didik SMA Kab.Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -349,30 +367,9 @@
     "series": [
       {
         "data": [
-          167,
-          74,
-          93
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          183,
-          106,
-          77
+            50306,
+              22665,
+              27641
         ]
       }
     ]
@@ -382,6 +379,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Peserta Didik SMA Kab.Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -391,9 +389,9 @@
     "series": [
       {
         "data": [
-          216,
-          121,
-          95
+            19870,
+             9465,
+             10405
         ]
       }
     ]
@@ -403,6 +401,7 @@
       "category": "SMA",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Peserta Didik SMA Kab.Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -412,9 +411,32 @@
     "series": [
       {
         "data": [
-          226,
-          108,
-          118
+          23269,
+          9850,
+          13419
+
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Peserta Didik SMA Kab.Pandeglang 2017-2018 Genap",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15051,
+            7333,
+           7718
         ]
       }
     ]
@@ -424,6 +446,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Peserta Didik SMA Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -433,9 +456,9 @@
     "series": [
       {
         "data": [
-          291,
-          164,
-          127
+          28922,
+            13563,
+            15359
         ]
       }
     ]
@@ -445,6 +468,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Peserta Didik SMA Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -454,9 +478,9 @@
     "series": [
       {
         "data": [
-          240,
-          128,
-          112
+          27244,
+            13112,
+            14132
         ]
       }
     ]
@@ -466,6 +490,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Serang",
+      "title": "Peserta Didik SMA Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -475,9 +500,9 @@
     "series": [
       {
         "data": [
-          116,
-          64,
-          52
+          11547,
+            4988,
+           6559
         ]
       }
     ]
@@ -487,6 +512,7 @@
       "category": "SMA",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Peserta Didik SMA Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -496,9 +522,9 @@
     "series": [
       {
         "data": [
-          98,
-          53,
-          45
+          6905,
+           2731,
+           4174
         ]
       }
     ]
@@ -508,6 +534,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Peserta Didik SMK Kab.Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -517,30 +544,9 @@
     "series": [
       {
         "data": [
-          344,
-          185,
-          159
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          201,
-          111,
-          90
+          65953,
+          37885,
+          28068
         ]
       }
     ]
@@ -550,6 +556,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Peserta Didik SMK Kab.Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -559,9 +566,9 @@
     "series": [
       {
         "data": [
-          167,
-          94,
-          73
+          17954,
+          10648,
+          7306
         ]
       }
     ]
@@ -571,6 +578,7 @@
       "category": "SMK",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Peserta Didik SMK Kab.Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -580,9 +588,31 @@
     "series": [
       {
         "data": [
-          159,
-          87,
-          72
+          25555,
+          15322,
+          10233
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Peserta Didik SMK Kab.Pandeglang 2017-2018 Genap",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          24311,
+          13933,
+          10378
         ]
       }
     ]
@@ -592,6 +622,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Peserta Didik SMK Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -601,9 +632,9 @@
     "series": [
       {
         "data": [
-          410,
-          230,
-          180
+            49039,
+            25592,
+            23447
         ]
       }
     ]
@@ -613,6 +644,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Peserta Didik SMK Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -622,9 +654,9 @@
     "series": [
       {
         "data": [
-          174,
-          97,
-          77
+          34154,
+          17842,
+          16312
         ]
       }
     ]
@@ -634,6 +666,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Serang",
+      "title": "Peserta Didik SMK Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -643,9 +676,9 @@
     "series": [
       {
         "data": [
-          184,
-          104,
-          80
+          21559,
+          11989,
+          9570
         ]
       }
     ]
@@ -655,6 +688,7 @@
       "category": "SMK",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Peserta Didik SMK Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -664,9 +698,9 @@
     "series": [
       {
         "data": [
-          138,
-          80,
-          58
+          12166,
+          7256,
+          4910
         ]
       }
     ]
@@ -676,6 +710,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Peserta Didik SLB Kab.Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -685,30 +720,9 @@
     "series": [
       {
         "data": [
-          23,
-          4,
-          19
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Laki-Laki",
-        "Perempuan"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          12,
-          8,
-          4
+            881,
+             543,
+              338
         ]
       }
     ]
@@ -718,6 +732,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Peserta Didik SLB Kab.Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -727,9 +742,9 @@
     "series": [
       {
         "data": [
-          12,
-          8,
-          4
+            633,
+             372,
+              261
         ]
       }
     ]
@@ -739,6 +754,7 @@
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Peserta Didik SLB Kab.Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -748,9 +764,32 @@
     "series": [
       {
         "data": [
-          1,
-          1,
-          0
+          247,
+           169,
+            78
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Peserta Didik SLB Kab.Pandeglang 2017-2018 Genap",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          746,
+           436,
+            310
+
         ]
       }
     ]
@@ -760,6 +799,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Peserta Didik SLB Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -769,9 +809,10 @@
     "series": [
       {
         "data": [
-          10,
-          3,
-          7
+          1062,
+           681,
+            381
+
         ]
       }
     ]
@@ -781,6 +822,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Peserta Didik SLB Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -790,9 +832,9 @@
     "series": [
       {
         "data": [
-          7,
-          1,
-          6
+          839,
+           548,
+            291
         ]
       }
     ]
@@ -802,6 +844,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Serang",
+      "title": "Peserta Didik SLB Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -811,9 +854,9 @@
     "series": [
       {
         "data": [
-          9,
-          3,
-          6
+          498,
+           290,
+           208
         ]
       }
     ]
@@ -823,6 +866,7 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Peserta Didik SLB Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
         "Laki-Laki",
@@ -832,9 +876,9 @@
     "series": [
       {
         "data": [
-          1,
-          0,
-          1
+        274,
+        165,
+        109
         ]
       }
     ]

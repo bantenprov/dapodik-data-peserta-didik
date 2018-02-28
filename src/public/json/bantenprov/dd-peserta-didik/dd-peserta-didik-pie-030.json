@@ -8,21 +8,21 @@
       "semester": "Genap",
       "tingkat": "Total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-total-jumlah"
+      "title": "Total Peserta Didik Kab. Tangerang "
     },
     "series": [
       {
         "data": [
           {
-            "value": 9291,
+            "value": 553427,
             "name": "Jumlah"
           },
           {
-            "value": 5419,
+            "value": 287670,
             "name": "Laki-laki"
           },
           {
-            "value": 3872,
+            "value": 265757,
             "name": "Perempuan"
           }
         ]
@@ -36,23 +36,23 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SD",
+      "tingkat": "total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sd-jumlah"
+      "title": "Total Peserta Didik Kab. Lebak"
     },
     "series": [
       {
         "data": [
           {
-            "value": 263,
+            "value": 226085,
             "name": "Jumlah"
           },
           {
-            "value": 1722,
+            "value": 118075,
             "name": "Laki-laki"
           },
           {
-            "value": 908,
+            "value": 108010,
             "name": "Perempuan"
           }
         ]
@@ -66,23 +66,23 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMP",
+      "tingkat": "total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smp-jumlah"
+      "title": "Total Peserta Didik Kab. Serang"
     },
     "series": [
       {
         "data": [
           {
-            "value": 3093,
+            "value": 262276,
             "name": "Jumlah"
           },
           {
-            "value": 1734,
+            "value": 136270,
             "name": "Laki-laki"
           },
           {
-            "value": 1359,
+            "value": 126006,
             "name": "Perempuan"
           }
         ]
@@ -96,23 +96,23 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMA",
+      "tingkat": "total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sma-jumlah"
+      "title": "Total Peserta Didik Kab.Pandeglang"
     },
     "series": [
       {
         "data": [
           {
-            "value": 1721,
+            "value": 224226,
             "name": "Jumlah"
           },
           {
-            "value": 950,
+            "value": 117394,
             "name": "Laki-laki"
           },
           {
-            "value": 771,
+            "value": 106832,
             "name": "Perempuan"
           }
         ]
@@ -126,23 +126,23 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMK",
+      "tingkat": "total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smk-jumlah"
+      "title": "Total Peserta Didik Kota Tangerang"
     },
     "series": [
       {
         "data": [
           {
-            "value": 1777,
+            "value": 323437,
             "name": "Jumlah"
           },
           {
-            "value": 988,
+            "value": 165906,
             "name": "Laki-laki"
           },
           {
-            "value": 789,
+            "value": 157531,
             "name": "Perempuan"
           }
         ]
@@ -156,23 +156,1283 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SLB",
+      "tingkat": "total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-slb-jumlah"
+      "title": "Total Peserta Didik Kota Tangerang Selatan"
     },
     "series": [
       {
         "data": [
           {
-            "value": 70,
+            "value": 250831,
             "name": "Jumlah"
           },
           {
-            "value": 25,
+            "value": 128524,
             "name": "Laki-laki"
           },
           {
-            "value": 45,
+            "value": 122307,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Total Peserta Didik Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 137399,
+            "name": "Jumlah"
+          },
+          {
+            "value": 70666,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 66733,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Total Peserta Didik Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 80285,
+            "name": "Jumlah"
+          },
+          {
+            "value": 42044,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 38241,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kab.Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 316737,
+            "name": "Jumlah"
+          },
+          {
+            "value": 164968,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 151769,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kab.Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 139022,
+            "name": "Jumlah"
+          },
+          {
+            "value": 72184,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 66838,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kab.Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 161587,
+            "name": "Jumlah"
+          },
+          {
+            "value": 84425,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 77162,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kab.Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 141061,
+            "name": "Jumlah"
+          },
+          {
+            "value": 73184,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 67877,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 178704,
+            "name": "Jumlah"
+          },
+          {
+            "value": 91961,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 86743,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 135086,
+            "name": "Jumlah"
+          },
+          {
+            "value": 69845,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 65241,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 76497,
+            "name": "Jumlah"
+          },
+          {
+            "value": 39748,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 36749,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SD Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 46439,
+            "name": "Jumlah"
+          },
+          {
+            "value": 24327,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 22112,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kab.Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 119550,
+            "name": "Jumlah"
+          },
+          {
+            "value": 61609,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 57941,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kab.Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 48606,
+            "name": "Jumlah"
+          },
+          {
+            "value": 25406,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 23206,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kab.Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 51618,
+            "name": "Jumlah"
+          },
+          {
+            "value": 26504,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 25114,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kab.Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 43057,
+            "name": "Jumlah"
+          },
+          {
+            "value": 22508,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 20549,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 65710,
+            "name": "Jumlah"
+          },
+          {
+            "value": 34109,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 31601,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 53508,
+            "name": "Jumlah"
+          },
+          {
+            "value": 27177,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 26331,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 27298,
+            "name": "Jumlah"
+          },
+          {
+            "value": 13651,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 13647,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMP Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 14501,
+            "name": "Jumlah"
+          },
+          {
+            "value": 7565,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 6936,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kab.Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 50306,
+            "name": "Jumlah"
+          },
+          {
+            "value": 22665,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 27641,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kab.Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 19870,
+            "name": "Jumlah"
+          },
+          {
+            "value": 9465,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 10405,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kab.Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 23269,
+            "name": "Jumlah"
+          },
+          {
+            "value": 9850,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 13419,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kab.Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 15051,
+            "name": "Jumlah"
+          },
+          {
+            "value": 7333,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 7718,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 28922,
+            "name": "Jumlah"
+          },
+          {
+            "value": 13563,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 15359,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 27244,
+            "name": "Jumlah"
+          },
+          {
+            "value": 13112,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 14132,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 11547,
+            "name": "Jumlah"
+          },
+          {
+            "value": 4988,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 6559,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMA Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 6905,
+            "name": "Jumlah"
+          },
+          {
+            "value": 2731,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 4174,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kab.Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 65953,
+            "name": "Jumlah"
+          },
+          {
+            "value": 37885,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 28068,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kab.Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 17954,
+            "name": "Jumlah"
+          },
+          {
+            "value": 10648,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 7306,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kab.Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 25555,
+            "name": "Jumlah"
+          },
+          {
+            "value": 15322,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 10233,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kab.Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 24311,
+            "name": "Jumlah"
+          },
+          {
+            "value": 13933,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 10378,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 49039,
+            "name": "Jumlah"
+          },
+          {
+            "value": 25592,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 23447,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kota Tangerang Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 34154,
+            "name": "Jumlah"
+          },
+          {
+            "value": 17842,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 16312,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 21559,
+            "name": "Jumlah"
+          },
+          {
+            "value": 11989,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 9570,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SMK Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 12166,
+            "name": "Jumlah"
+          },
+          {
+            "value": 7256,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 4910,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kab.Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 881,
+            "name": "Jumlah"
+          },
+          {
+            "value": 543,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 338,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kab.Lebak"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 633,
+            "name": "Jumlah"
+          },
+          {
+            "value": 372,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 261,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kab.Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 247,
+            "name": "Jumlah"
+          },
+          {
+            "value": 169,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 78,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kab.Pandeglang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 746,
+            "name": "Jumlah"
+          },
+          {
+            "value": 436,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 310,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kota Tangerang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 1062,
+            "name": "Jumlah"
+          },
+          {
+            "value": 681,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 381,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kota Tangerang Selatan"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 839,
+            "name": "Jumlah"
+          },
+          {
+            "value": 548,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 291,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kota Serang"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 498,
+            "name": "Jumlah"
+          },
+          {
+            "value": 290,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 208,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "total",
+      "group": "Jumlah",
+      "title": "Jumlah Peserta Didik SLB Kota Cilegon"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 274,
+            "name": "Jumlah"
+          },
+          {
+            "value": 165,
+            "name": "Laki-laki"
+          },
+          {
+            "value": 109,
             "name": "Perempuan"
           }
         ]
